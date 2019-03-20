@@ -1,3 +1,12 @@
+Plantilla para crear aplicaciones lista para desarrollar:
+
+->esta traducida al español
+
+->tiene generado el Auth
+
+->tiene instalalado laravel Collective
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
