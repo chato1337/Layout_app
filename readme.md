@@ -7,6 +7,8 @@ Plantilla para crear aplicaciones lista para desarrollar (Quizas te ahorre algun
 ->tiene instalalado laravel Collective
 
 
+<hr>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
