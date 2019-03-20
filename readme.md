@@ -1,4 +1,4 @@
-Plantilla para crear aplicaciones lista para desarrollar:
+Plantilla para crear aplicaciones lista para desarrollar (Quizas te ahorre algunos clicks):
 
 ->esta traducida al español
 
