@@ -11,9 +11,18 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('wacho', function () {
     return view('welcome');
 });
+
+// rutas del fronted
+
+Route::get('/', 'frontendController@index')->name('indice');
+
+Route::get('acerca_de', 'frontendController@about')->name('acerca');
+
+
+// rutas del backend
 
 Auth::routes();
 
